@@ -41,3 +41,15 @@ elif Exam == "Geroge Washington":
 else:
     print( Exam + " correct!")
     
+Food = input (" What is your favorite food")
+if Food == " BLT":
+    print ( Food + " that sounds good")
+else:
+    print ( Food + " that sounds good")
+    
+join =  input (" Would you like to join history club")
+if join == " yes":
+    print ( join + "WELCOME TO THE CLUB!")
+
+
+    
